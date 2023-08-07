@@ -22,33 +22,4 @@
     background-color: #0077b6;
 }
 
-@media (max-width: 992px) {
-.CreateTodoButton{
-    background-color: #61dafa;
-    margin: 0;
-    border: none;
-    cursor: pointer;
-    font-size: 70px;
-    position: fixed;
-    bottom: 30px;
-    right: 30px;
-    font-weight: 700;
-    color: #fafafa;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 80px;
-    width: 80px;
-    border-radius: 50%;
-    transition: .3s ease;
-}
-
-.CreateTodoButton:hover{
-    transform:rotate(180deg);
-    -webkit-box-shadow: 5px 5px 50px 3px #21E7FF; 
-    box-shadow: 5px 5px 50px 3px #21E7FF;
-    -moz-box-shadow: 5px 5px 50px 3px #21E7FF;
-    background-color:#61dafa;
-}
-}
 
