@@ -1,0 +1,22 @@
+
+li{
+    width: 80%;
+    height: 5rem;
+    background-color: aliceblue;
+    margin: 40px auto;
+    border: 2px solid lightgray;
+}
+
+p{
+    width: 70%;
+    text-align: center;
+}
+
+.text-check--active {
+    text-decoration: line-through;
+    font-weight: bold;
+}
+
+ul{
+    padding: 0;
+}

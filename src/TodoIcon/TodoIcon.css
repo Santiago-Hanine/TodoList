@@ -1,0 +1,11 @@
+.icon{
+    font-size: 30px;
+}
+
+.icon-delete:hover .icon{
+    fill: red;
+}
+
+.icon-check:hover .icon{
+    fill: green;
+}
