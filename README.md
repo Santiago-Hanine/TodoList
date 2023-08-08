@@ -1,6 +1,8 @@
 # TodoList Project
 This TodoList is a new project that I developed during my journey of learning React.js, an influential JavaScript library for building interactive user interfaces. The project revolves around creating a personalized and feature-rich todo list application that showcases my progress and skills as I delved into the world of React.js development.
 
+Deploy of the page: https://santiago-hanine.github.io/TodoList/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
